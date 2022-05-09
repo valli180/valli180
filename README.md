@@ -18,7 +18,6 @@
 - 💬 Ask me about **pandas, sql, scikit learn, supervised learning, Data Cleaning, Feature Engineering, NLP, Unsupervised learning, Data Visualization**
 
 - 📫 How to reach me **valli.als@outlook.com** or on mobile @ +1 778-317-0396
-- Linkedin Profile (https://www.linkedin.com/in/vallials/)
 
 - ⚡ Fun fact **I think I am funny but my 3 year old doesn't think so 🙄**
 
