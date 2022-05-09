@@ -3,13 +3,22 @@
 
 - 🔭 I’m currently working on **Medical X Ray Classification using CNN**
 
-- 🌱 I’m currently learning **Deep Learning Models**
+- 🌱 I’m currently learning **Deep Learning Models and NLP bases models ** 
 
 - 👨‍💻 All of my projects are available at [github.com/valli180](github.com/valli180)
 
-- 💬 Ask me about **pandas, sql, scikit learn, supervised learning**
+* [Rainfall Prediction Using AWS](https://github.com/UBC-MDS/rainfall_group11) | UBC Course work | Cloud | AWS
+* [Customer Churn Analysis] (https://github.com/valli180/customer_churn_analysis)  | Personal Project for learning purpose | Binary Classification
+* [Olympic Data Visualization] (https://github.com/UBC-MDS/olympics_data_analysis) | UBC Course Work | Dash |
+* [Olympic Data Visualization in R] (https://github.com/UBC-MDS/olympics_data_analysis-R) | UBC Course Work | Dash in R
+* [AirBnB Popularity Regression](https://github.com/valli180/airbnb-popularity_regression) | Personal Project for Learning Purpose | Regression
+* [Climate Change Prediction](https://github.com/valli180/WiDS_climate_change) | Women In DataScience Kaggle Hackathon
+* [Contraceptive Method Predictor](https://github.com/UBC-MDS/contraceptive_method_predictor) | Classification | UBC Course Work
 
-- 📫 How to reach me **valli.akella18@gmail.com**
+- 💬 Ask me about **pandas, sql, scikit learn, supervised learning, Data Cleaning, Feature Engineering, NLP, Unsupervised learning, Data Visualization**
+
+- 📫 How to reach me **valli.als@outlook.com** or on mobile @ +1 778-317-0396
+- Linkedin Profile (https://www.linkedin.com/in/vallials/)
 
 - ⚡ Fun fact **I think I am funny but my 3 year old doesn't think so 🙄**
 
