@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my capstone project which is an NLP based dental project**
 
-- 🌱 I’m currently learning **Deep Learning Models and NLP bases models ** 
+- 🌱 I’m currently learning **Deep Learning Models** 
 
 - 👨‍💻 All of my projects are available at [github.com/valli180](github.com/valli180)
 
@@ -15,17 +15,21 @@
 * [Climate Change Prediction](https://github.com/valli180/WiDS_climate_change) | Women In DataScience Kaggle Hackathon
 * [Contraceptive Method Predictor](https://github.com/UBC-MDS/contraceptive_method_predictor) | Classification | UBC Course Work
 
-- 💬 Ask me about [-] pandas, 
-                  [-] sql, 
-                  [-] scikit learn - supervised learning, Unsupervised learning,
-                  [-] Data Cleaning, 
-                  [-] Feature Engineering, 
-                  [-] NLP,  
-                  [-] Data Visualization**
+- 💬 Ask me about 
+* pandas, 
+* sql, 
+* scikit learn - supervised learning, Unsupervised learning,
+* Data Cleaning, 
+* Feature Engineering, 
+* NLP,  
+* Data Visualization**
 
-- 📫 How to reach me **valli.als@outlook.com** or on mobile @ +1 778-317-0396
+- 📫 How to reach me: 
+**valli.als@outlook.com** or 
+**mobile @ +1 778-317-0396 **
 
-- ⚡ Fun fact **I think I am funny but my 3 year old doesn't think so 🙄**
+- ⚡ Fun fact:
+**I think I am funny but my 3 year old doesn't think so 🙄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
