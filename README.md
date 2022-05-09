@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning Models** 
 
-- 👨‍💻 All of my projects are available at [github.com/valli180](github.com/valli180)
+👨‍💻 All of my projects are available at [github.com/valli180](github.com/valli180). Some of them are below:
 
 * [Rainfall Prediction Using AWS](https://github.com/UBC-MDS/rainfall_group11) | UBC Course work | Cloud | AWS
 * [Customer Churn Analysis](https://github.com/valli180/customer_churn_analysis)  | Personal Project for learning purpose | Binary Classification
@@ -15,7 +15,7 @@
 * [Climate Change Prediction](https://github.com/valli180/WiDS_climate_change) | Women In DataScience Kaggle Hackathon
 * [Contraceptive Method Predictor](https://github.com/UBC-MDS/contraceptive_method_predictor) | Classification | UBC Course Work
 
-- 💬 Ask me about 
+💬 Ask me about 
 * pandas, 
 * sql, 
 * scikit learn - supervised learning, Unsupervised learning,
@@ -24,7 +24,7 @@
 * NLP,  
 * Data Visualization**
 
-- 📫 How to reach me: 
+📫 How to reach me: 
 **valli.als@outlook.com** or 
 **mobile @ +1 778-317-0396 **
 
