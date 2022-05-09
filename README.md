@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valli Akella</h1>
 <h3 align="center">A passionate data science grad student 👩‍🎓 pursuing Masters in Data Science from the University of British Columbia, Vancouver</h3>
 
-- 🔭 I’m currently working on **Medical X Ray Classification using CNN**
+- 🔭 I’m currently working on **my capstone project which is an NLP based dental project**
 
 - 🌱 I’m currently learning **Deep Learning Models and NLP bases models ** 
 
