@@ -8,9 +8,9 @@
 - 👨‍💻 All of my projects are available at [github.com/valli180](github.com/valli180)
 
 * [Rainfall Prediction Using AWS](https://github.com/UBC-MDS/rainfall_group11) | UBC Course work | Cloud | AWS
-* [Customer Churn Analysis] (https://github.com/valli180/customer_churn_analysis)  | Personal Project for learning purpose | Binary Classification
-* [Olympic Data Visualization] (https://github.com/UBC-MDS/olympics_data_analysis) | UBC Course Work | Dash |
-* [Olympic Data Visualization in R] (https://github.com/UBC-MDS/olympics_data_analysis-R) | UBC Course Work | Dash in R
+* [Customer Churn Analysis](https://github.com/valli180/customer_churn_analysis)  | Personal Project for learning purpose | Binary Classification
+* [Olympic Data Visualization](https://github.com/UBC-MDS/olympics_data_analysis) | UBC Course Work | Dash |
+* [Olympic Data Visualization in R](https://github.com/UBC-MDS/olympics_data_analysis-R) | UBC Course Work | Dash in R
 * [AirBnB Popularity Regression](https://github.com/valli180/airbnb-popularity_regression) | Personal Project for Learning Purpose | Regression
 * [Climate Change Prediction](https://github.com/valli180/WiDS_climate_change) | Women In DataScience Kaggle Hackathon
 * [Contraceptive Method Predictor](https://github.com/UBC-MDS/contraceptive_method_predictor) | Classification | UBC Course Work
