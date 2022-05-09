@@ -15,13 +15,13 @@
 * [Climate Change Prediction](https://github.com/valli180/WiDS_climate_change) | Women In DataScience Kaggle Hackathon
 * [Contraceptive Method Predictor](https://github.com/UBC-MDS/contraceptive_method_predictor) | Classification | UBC Course Work
 
-- 💬 Ask me about **pandas, 
-                    sql, 
-                    scikit learn - supervised learning, Unsupervised learning,
-                    Data Cleaning, 
-                    Feature Engineering, 
-                    NLP,  
-                    Data Visualization**
+- 💬 Ask me about [-] pandas, 
+                  [-] sql, 
+                  [-] scikit learn - supervised learning, Unsupervised learning,
+                  [-] Data Cleaning, 
+                  [-] Feature Engineering, 
+                  [-] NLP,  
+                  [-] Data Visualization**
 
 - 📫 How to reach me **valli.als@outlook.com** or on mobile @ +1 778-317-0396
 
