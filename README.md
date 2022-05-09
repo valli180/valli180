@@ -28,7 +28,7 @@
 **valli.als@outlook.com** or 
 **mobile @ +1 778-317-0396 **
 
-- ⚡ Fun fact:
+⚡ Fun fact:
 **I think I am funny but my 3 year old doesn't think so 🙄**
 
 <h3 align="left">Connect with me:</h3>
